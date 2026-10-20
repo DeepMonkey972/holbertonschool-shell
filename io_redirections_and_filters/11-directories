@@ -1,0 +1,2 @@
+#!/bin/bash
+wc -l < <(find . -minedepth 1 -type d)
